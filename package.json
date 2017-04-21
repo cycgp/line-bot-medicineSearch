@@ -1,0 +1,17 @@
+{
+  "name": "line_bot",
+  "version": "1.0.0",
+  "description": "line bot",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.14.1",
+    "get-json": "0.0.3",
+    "linebot": "^1.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "",
+  "license": "ISC"
+}
